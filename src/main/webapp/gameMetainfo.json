@@ -1,0 +1,9 @@
+{
+  "game": {
+    "name": "Template001",
+    "id": "300-2116-0",
+    "framework": "jet",
+    "version": "1.5",
+    "studio": "interactive"
+  }
+}
